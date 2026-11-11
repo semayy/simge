@@ -1,0 +1,196 @@
+{
+  "tr": {
+    "title": "Dr. Simge Filoğlu Soydan | Akademik Profil ve Yayınlar",
+    "description": "Dr. Simge Filoğlu Soydan’ın biyografisi, çocuk gelişimi ve disleksi araştırmaları, BİL-ETOM eğitmenliği, kitapları ve akademik yayınları.",
+    "label": "Akademik profil",
+    "skip": "İçeriğe geç",
+    "enter": "Profili keşfet",
+    "replay": "Harf animasyonunu yeniden oynat",
+    "profile": "Biyografi",
+    "milestones": "Akademik yolculuk",
+    "publications": "Yayın arşivi",
+    "field": "Çocuk gelişimi · Okuma eğitimi",
+    "role": "Öğretim görevlisi, araştırmacı ve okuma eğitmeni",
+    "bio": [
+      "Dr. Simge Filoğlu Soydan, Ankara Hacı Bayram Veli Üniversitesi Polatlı Sosyal Bilimler Meslek Yüksekokulu Çocuk Gelişimi Programı’nda öğretim görevlisidir. BİL-ETOM Okuma Geliştirme Programı eğitmenidir.",
+      "Ahi Evran Üniversitesi’nde sosyal bilgiler öğretmenliği ve sosyal bilgiler eğitimi alanlarında öğrenim gördü. Ankara Üniversitesi’nde çocuk gelişimi doktorasını tamamladı. Doktora araştırmasında bilgisayar destekli etkileşimli okuma müdahalesini, disleksili çocukların sesli okuma ve okuduğunu anlama becerileri, çalışma belleği ve benlik saygısı açısından inceledi.",
+      "Yayınları çocuk gelişimi, disleksi, okuma becerileri ve sosyal bilgilerde değerler eğitimini kapsıyor. Çalışmaları kaynaklarda Simge Soydan ve Simge Filoğlu adlarıyla da yer alıyor."
+    ],
+    "topics": [
+      "Çocuk gelişimi",
+      "Disleksi",
+      "Akıcı okuma",
+      "Okuduğunu anlama",
+      "Değerler eğitimi"
+    ],
+    "affiliation": "Üniversite kaydı",
+    "archiveIntro": "Açık kaynaklarda saptanan makaleler, kitaplar, tezler ve kongre çalışmaları. Kongre sunumu ile yayımlanmış makale ayrı kayıtlar olarak gösterilir.",
+    "find": "Yayın ara",
+    "filter": "Yayın türü",
+    "all": "Tüm türler",
+    "none": "Bu aramayla eşleşen yayın yok.",
+    "results": "kayıt",
+    "source": "Kaynağa git",
+    "original": "Özgün başlık",
+    "menu": "Sayfa menüsü",
+    "top": "Başa dön",
+    "types": {
+      "article": "Makale",
+      "thesis": "Tez",
+      "book": "Kitap",
+      "proceedings": "Kongre tam metni",
+      "talk": "Kongre sunumu"
+    },
+    "timeline": [
+      [
+        "2026",
+        "Öğretmenlerin gözünden disleksi",
+        "Neriman Aral ile birlikte hazırladığı araştırma, ODÜ Sosyal Bilimler Araştırmaları Dergisi’nde yayımlandı.",
+        "article"
+      ],
+      [
+        "2025",
+        "Çocuk gelişimi doktorası",
+        "Ankara Üniversitesi’nde bilgisayar destekli etkileşimli okuma üzerine doktora tezini tamamladı.",
+        "doctorate"
+      ],
+      [
+        "2025",
+        "Okuma egzersizleri kitabı",
+        "Özge Filoğlu ile hazırladığı Kolay Okuma Egzersizleri, Pogo Çocuk tarafından yayımlandı.",
+        "exercises"
+      ],
+      [
+        "2024–25",
+        "Çocuk Gelişimi Programı öz değerlendirmesi",
+        "AHBVÜ Çocuk Gelişimi Programı’nın öz değerlendirme raporunu hazırlayan ekipte yer aldı.",
+        "university"
+      ],
+      [
+        "2018",
+        "Sosyal bilgiler eğitimi yüksek lisansı",
+        "Ahi Evran Üniversitesi’nde öğrencilerin sosyal bilgiler becerilerine ilişkin algılarını araştırdı.",
+        "masters"
+      ],
+      [
+        "2012–14",
+        "Değerler eğitimi araştırma projesi",
+        "Ahi Evran Üniversitesi’nin “Değerlerimize Sahip Çıkalım” bilimsel araştırma projesinde araştırmacı olarak görev aldı.",
+        "cv"
+      ]
+    ],
+    "visual_caption": "Harflerden satırlara",
+    "featured_books": "Kitaplardan bir seçki",
+    "haptics": "Dokunma titreşimi",
+    "archive_cta": "Yayınları incele",
+    "verified_records": "Kaynak bağlantılı kayıt",
+    "language_count": "Türkçe / English",
+    "fields_label": "Araştırma odağı",
+    "milestones_nav": "Akademik yolculuk",
+    "publications_nav": "Yayın arşivi",
+    "explore_title": "Merakla başlar.\nBilgiyle büyür.",
+    "explore_label": "ARAŞTIR · OKU · KEŞFET",
+    "explore_copy": "Çocuk gelişiminden okuma becerilerine uzanan çalışmaları keşfedin.",
+    "articles_short": "Makaleler",
+    "books_short": "Kitaplar",
+    "theses_short": "Tezler",
+    "clear_search": "Aramayı temizle"
+  },
+  "en": {
+    "title": "Dr. Simge Filoğlu Soydan | Academic Profile and Publications",
+    "description": "Biography, research and publications of Dr. Simge Filoğlu Soydan, a lecturer and BİL-ETOM instructor working on child development, dyslexia and reading skills.",
+    "label": "Academic profile",
+    "skip": "Skip to content",
+    "enter": "Explore the profile",
+    "replay": "Replay the letter animation",
+    "profile": "Biography",
+    "milestones": "Academic milestones",
+    "publications": "Publication archive",
+    "field": "Child development · Reading education",
+    "role": "Lecturer, researcher and reading instructor",
+    "bio": [
+      "Dr. Simge Filoğlu Soydan is a lecturer in the Child Development Programme at Ankara Hacı Bayram Veli University’s Polatlı Vocational School of Social Sciences. She is an instructor in the BİL-ETOM Reading Development Programme.",
+      "She studied social studies teaching and social studies education at Ahi Evran University and completed a PhD in child development at Ankara University. Her doctoral research examined a computer-assisted interactive reading intervention in relation to oral reading, comprehension, working memory and self-esteem in children with dyslexia.",
+      "Her publications cover child development, dyslexia, reading skills and values education in social studies. Her work also appears under the names Simge Soydan and Simge Filoğlu."
+    ],
+    "topics": [
+      "Child development",
+      "Dyslexia",
+      "Reading fluency",
+      "Reading comprehension",
+      "Values education"
+    ],
+    "affiliation": "University record",
+    "archiveIntro": "Articles, books, theses and conference contributions identified in open sources. Conference presentations and subsequent journal articles are listed as separate records.",
+    "find": "Find a publication",
+    "filter": "Publication type",
+    "all": "All types",
+    "none": "No publications match this search.",
+    "results": "records",
+    "source": "View source",
+    "original": "Original title",
+    "menu": "Page navigation",
+    "top": "Back to top",
+    "types": {
+      "article": "Article",
+      "thesis": "Thesis",
+      "book": "Book",
+      "proceedings": "Proceedings paper",
+      "talk": "Conference presentation"
+    },
+    "timeline": [
+      [
+        "2026",
+        "Dyslexia through teachers’ perspectives",
+        "Her study with Neriman Aral was published in the Ordu University journal of social science research.",
+        "article"
+      ],
+      [
+        "2025",
+        "PhD in child development",
+        "She completed a doctorate at Ankara University with a dissertation on computer-assisted interactive reading.",
+        "doctorate"
+      ],
+      [
+        "2025",
+        "Reading exercises book",
+        "Pogo Çocuk published Kolay Okuma Egzersizleri, co-authored with Özge Filoğlu.",
+        "exercises"
+      ],
+      [
+        "2024–25",
+        "Child Development Programme review",
+        "She helped prepare the self-evaluation report for the Child Development Programme at Ankara Hacı Bayram Veli University.",
+        "university"
+      ],
+      [
+        "2018",
+        "Master’s degree in social studies education",
+        "Her thesis at Ahi Evran University explored how students perceived the skills they developed in social studies.",
+        "masters"
+      ],
+      [
+        "2012–14",
+        "Values education research project",
+        "She was a researcher on Ahi Evran University’s “Değerlerimize Sahip Çıkalım” scientific research project.",
+        "cv"
+      ]
+    ],
+    "visual_caption": "From letters to lines",
+    "featured_books": "Featured books",
+    "haptics": "Touch vibration",
+    "archive_cta": "Explore publications",
+    "verified_records": "Source-linked records",
+    "language_count": "Türkçe / English",
+    "fields_label": "Research focus",
+    "milestones_nav": "Milestones",
+    "publications_nav": "Publications",
+    "explore_title": "Begins with curiosity.\nGrows with knowledge.",
+    "explore_label": "RESEARCH · READ · EXPLORE",
+    "explore_copy": "Explore work spanning child development and reading skills.",
+    "articles_short": "Articles",
+    "books_short": "Books",
+    "theses_short": "Theses",
+    "clear_search": "Clear search"
+  }
+}

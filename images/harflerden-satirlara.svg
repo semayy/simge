@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 498">
+  <defs>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r=".8" fill="#6a4f3a" opacity=".22"/>
+    </pattern>
+    <linearGradient id="page" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop stop-color="#fcf4e2"/>
+      <stop offset="1" stop-color="#e6d4b4"/>
+    </linearGradient>
+  </defs>
+  <path fill="#e6d9c6" d="M0 0h620v498H0z"/>
+  <path fill="url(#dots)" d="M20 20h580v458H20z"/>
+  <circle cx="389" cy="219" r="154" fill="#aa5235"/>
+  <path d="M49 448h522M49 50h522M49 50v398M571 50v398" fill="none" stroke="#755c49" stroke-opacity=".4"/>
+  <path d="M82 320q113-44 230 48 107-89 230-44l-2 26q-116-37-220 57h-13q-112-91-223-57z" fill="#372c27"/>
+  <path d="M90 320l16-119q101-37 207 87 105-124 207-87l14 119q-103-36-221 64-120-100-223-64z" fill="url(#page)" stroke="#362b26" stroke-width="2"/>
+  <path d="M313 289v93m-205-69q105-27 205 67 97-94 204-67M122 231q83-16 164 65m-168-43q85-13 172 66m-174-44q90-12 173 65m214-109q-83-16-164 65m168-43q-85-13-172 66m174-44q-90-12-173 65" fill="none" stroke="#9a7c63" stroke-width="2" opacity=".76"/>
+  <path d="M291 151h44m-22-22v44M105 119h28m-14-14v28M497 125h26m-13-13v26" stroke="#695342" opacity=".8"/>
+  <g font-family="Georgia,serif" text-anchor="middle">
+    <g transform="translate(164 132) rotate(-15)">
+      <rect x="-23" y="-25" width="46" height="49" fill="#f4e8ce" stroke="#6a4f3a"/>
+      <text y="12" font-size="32" fill="#3f342c">A</text>
+    </g>
+    <g transform="translate(252 95) rotate(10)">
+      <rect x="-23" y="-25" width="46" height="49" fill="#3f342c"/>
+      <text y="12" font-size="32" fill="#f4e8ce">B</text>
+    </g>
+    <g transform="translate(412 167) rotate(13)">
+      <rect x="-23" y="-25" width="46" height="49" fill="#f4e8ce"/>
+      <text y="12" font-size="32" fill="#3f342c">C</text>
+    </g>
+  </g>
+</svg>
